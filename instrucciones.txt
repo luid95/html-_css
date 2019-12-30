@@ -1,8 +1,10 @@
 //instrucciones git hub
 
 git init
+git status
 git add .
-git commit -m "first commit"
+git status
+git commit -m "fundamentos CSS"
 git remote add origin https://github.com/luid95/html-_css.git
 git push -u origin master
 
