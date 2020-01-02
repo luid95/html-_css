@@ -1,0 +1,16 @@
+h1{
+    background: #EC610a;
+    /* margin-left: 100px;
+    margin-bottom: 200px; */
+    /* margenes por igual por los cuatro lados */
+    /* margin: 100px; */
+    /* margen ariba/abajo y derecha/izq. */
+    /* margin: 200px 100px; */
+    /* margen como manecillas de reloj arriba/izq/abajo/derecha */
+    margin: 100px 1000px 20px 10px;
+}
+p{
+    background: #a40a3c;
+    /* el padding es un margen, pero interior */
+    padding: 100px;
+}

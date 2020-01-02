@@ -1,0 +1,15 @@
+/* para accerder a etiquetas mediante clases
+    se puede de la siguiente manera .nombreclase */
+
+    /* color por nombre */
+.titulo{
+    color: red;
+}
+    /*  color por rgb */
+.parrafo{
+    color: rgb(60, 170, 71);
+}
+    /*  color por hexadecimal */
+.parrafo2{
+    color: #00CED1;
+}
