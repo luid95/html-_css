@@ -4,8 +4,6 @@ git init
 git status
 git add .
 git status
-git commit -m "clases y etiquetas CSS"
+git commit -m "Eventos y adaptabilidad"
 git remote add origin https://github.com/luid95/html-_css.git
 git push -u origin master
-
-video 11

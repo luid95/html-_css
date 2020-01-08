@@ -1,0 +1,13 @@
+button{
+    background: #404969;
+    color: #bde4f4;
+}
+/* pseudoclases */
+/* cuando el mouse esta sobre el boton */
+button:hover{
+    background: #ff7f50;
+} 
+/* cuando el boton este activo/click */
+button:active{
+    background: #ff4273;
+}
