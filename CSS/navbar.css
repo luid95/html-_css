@@ -14,6 +14,14 @@ nav{
     display: flex;
     justify-content: space-around;
 }
+.nav-boton{
+    background: salmon;
+    color: #fff;
+    padding: 10px 0;
+    border: 2px solid #fff;
+    display: none;
+}
+
 @media(max-width: 600px){
     nav{
         background: black;
@@ -21,5 +29,8 @@ nav{
     }
     .nav-enlace{
         margin: 10px 0px;
+    }
+    .nav-boton{
+        display: inline-block;
     }
 }

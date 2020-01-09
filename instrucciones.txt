@@ -4,6 +4,6 @@ git init
 git status
 git add .
 git status
-git commit -m "Eventos y adaptabilidad"
+git commit -m "Agregar boton"
 git remote add origin https://github.com/luid95/html-_css.git
-git push -u origin master
+git push -u origin master 
