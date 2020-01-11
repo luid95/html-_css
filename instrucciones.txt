@@ -4,6 +4,6 @@ git init
 git status
 git add .
 git status
-git commit -m "JavaScript"
+git commit -m "Sombras box shadows"
 git remote add origin https://github.com/luid95/html-_css.git
 git push -u origin master 
